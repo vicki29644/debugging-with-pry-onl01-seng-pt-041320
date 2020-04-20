@@ -1,9 +1,8 @@
-def plus_two(num)[1] pry (# <RSpec:: ExampleGroups::Plus Two>)> num 
+def plus_two(num)[1] pry 
 	sum = num + 2 => 3
-	num + [2] pry (# <RSpec:: ExampleGroups::Plus Two>)> num 
-  binding.pry
+	num + [2] pry
 end
 
 
 
-[1] pry (# <RSpec:: ExampleGroups::Plus Two>)> num 
+[1] pry 
