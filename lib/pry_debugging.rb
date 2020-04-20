@@ -1,6 +1,6 @@
-def plus_two(num)[1] pry 
+def plus_two(num) 
 	sum = num + 2 => 3
-	num + [2] pry
+	num + 2
 end
 end
 
