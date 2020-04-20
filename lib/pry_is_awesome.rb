@@ -7,6 +7,6 @@ def prying_into_the_method(x,y)
   "The program froze before it could read me!" 
   puts this_variable_hasnt_been_interpreted_yet
 end
- [1] prying_into_the_method(3,2)
+ prying_into_the_method(3,2)
 
 
